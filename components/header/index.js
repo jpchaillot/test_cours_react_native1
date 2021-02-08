@@ -5,7 +5,7 @@ const Header =() => (
 <View>
     <View  style = {style.subHeader} />
     <View>
-        <Text>aaaaaaaaaaaaaaaaaaaaaaaaaaaa</Text>
+        <Text>ccccccccc</Text>
     </View>
 
 </View>
